@@ -1,4 +1,4 @@
-# antd-mobile Samples
+# antd-mobile Samples v1
 
 Note: **The master branch is antd-mobile@2 samples**
 
